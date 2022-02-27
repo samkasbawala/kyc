@@ -14,6 +14,12 @@ You can find out more details in this [issue](https://github.com/SerpentAI/D3DSh
 This poject will also work on Windows only since d3dshot has been designed to capture the screen using the [Windows Desktop Duplication API](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/desktop-dup-api).
 
 ## Usage
+You can run the script by running:
+```
+python kick_ya_chop.py
+```
+**Please read below before running!**
+
 At the top of the script you will see a number of constants defined.
 Only the top section of the constants should be configured by the user.
 Since everyone will be working with different hardware and peripherals, these need to be tuned to your specific devices.
